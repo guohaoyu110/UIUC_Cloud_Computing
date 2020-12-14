@@ -1,6 +1,12 @@
-# UIUC_Cloud_Concepts
-UIUC Cloud Computing Concepts part1&amp;part2
+# UIUC_Cloud_Computing
 
-part1:  https://www.coursera.org/learn/cloud-computing?specialization=cloud-computing#syllabus
+part1:
 
-part2:  https://www.coursera.org/learn/cloud-computing-2?specialization=cloud-computing
+part2:
+
+part3:
+
+part4:
+
+part5:
+
