@@ -1,12 +1,12 @@
 # UIUC_Cloud_Computing
 
-part1:
+## 1. Cloud Computing Concepts, Part1
 
-part2:
+## 2. Cloud Computing Concepts, Part2
 
-part3:
+## 3. Cloud Computing Applications, Part 1: Cloud Systems and Infrastructure
 
-part4:
+## 4. Cloud Computing Applications, Part 2: Big Data and Applications in the Cloud
 
-part5:
+## 5. Cloud Networking
 
